@@ -11,7 +11,7 @@ import re
 # Funciones Necesarias.
 """
 Funciones que no puden estar en otro archivo, ya que luego hay errores 
-en la busqueda de objetos en la lista.
+en la busqueda de la lista de objetos.
 """
 def BuscarCorreo(correoBuscar):
     coincidencia=False
