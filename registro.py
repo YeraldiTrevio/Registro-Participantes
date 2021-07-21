@@ -1,8 +1,8 @@
 # Area de importacion.
 # from funciones import participantes
-from collections import OrderedDict
-from modulos_personales import regEx
 from modulos_personales.clases import Participante
+from modulos_personales import regEx
+from collections import OrderedDict
 from funciones import *
 import os
 import re
