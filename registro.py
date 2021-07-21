@@ -4,9 +4,9 @@ from modulos_personales.clases import Participante
 from modulos_personales import regEx
 from collections import OrderedDict
 from funciones import *
+import json
 import os
 import re
-import json
 
 # Funciones Necesarias.
 """
