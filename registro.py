@@ -31,7 +31,7 @@ def BuscarEmail(correoBuscar):
             break
     return indice_retorno
 
-# Creacion de variables. Coronado Pérez Gisela Yaqueline.
+# Creacion de variables
 ruta = os.path.abspath(os.getcwd())
 archivo_normal=ruta+"\\participantes.csv"
 archivo_respaldo=ruta+"\\participantes.bak"
