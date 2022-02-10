@@ -1,7 +1,9 @@
 SPANISH AND ENGLISH README.md
 
 LENGUAJE DEL PROGRAMA: ESPAÑOL
-----------------------------------------------------------------------------------SPANISH----------------------------------------------------------------------------------
+
+----------------------------------------------------------SPANISH----------------------------------------------------------
+
 El archivo principal donde funciona el programa se llama registro.py los demas archivos son archivos 
 auxiliares, las opciones son muy especificas asi queno es necesario explicar todo el programa.
 
@@ -25,7 +27,8 @@ LA QUE SE CREO, DE LO CONTRARIO EL PROGRAMA NO LO DETECTARA!!!
 
 
 
-----------------------------------------------------------------------------------ENGLISH----------------------------------------------------------------------------------
+-------------------------------------------------ENGLISH-------------------------------------------------
+
 LANGUAGE OF THE PROGRAMM: SPANISH
 
 The main file where the program works is called registry.py the other files are auxiliary files, the options are very specific so it is not
